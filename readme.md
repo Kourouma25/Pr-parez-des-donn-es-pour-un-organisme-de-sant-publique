@@ -10,10 +10,10 @@ Santé publique France souhaite créer un système de suggestion ou d'auto-compl
 4. Fournir une analyse des données pour déterminer si l'application envisagée peut être mise en place avec succès.
 
 ## 🛠️ Étapes du Projet ##
-* Collecte et Préparation des Données
-* Traitement des Valeurs Manquantes et Aberrantes
-* Analyse Univariée et Bivariée
-* Préparation du Rapport et Présentation
+* Collecte et Préparation des Données.
+* Traitement des Valeurs Manquantes et Aberrantes.
+* Analyse Univariée et Bivariée.
+* Préparation du Rapport et Présentation.
 
 ## 📂 Organisation des Fichiers ## 
 * notebooks/ : Contient les notebooks Jupyter pour l'exploration, le nettoyage et l'analyse des données.
