@@ -1,4 +1,4 @@
-## 🚀 Mission - Préparation des Données pour un Organisme de Santé Publique##
+## 🚀 Mission - Préparation des Données pour un Organisme de Santé Publique ##
 Ce projet est mené dans le cadre d'une mission pour Santé publique France, qui souhaite améliorer la base de données Open Food Facts. Cette base de données est un projet open source permettant aux utilisateurs de connaître la qualité nutritionnelle des produits alimentaires.
 Le jeu de données Open Food Facts est disponible sur le site officiel https://world.openfoodfacts.org/
 
